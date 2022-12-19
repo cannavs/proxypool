@@ -16,7 +16,7 @@
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: airproxies
+    channel: hkaa0
     num: 5
 
 # clash格式订阅链接
