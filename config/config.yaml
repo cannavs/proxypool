@@ -1,13 +1,13 @@
 # your domain
-domain: pool.ednovas.xyz
+domain: fieiona.herokuapp.com
 port:                 # default 12580
 
 # source list file
 source-files:
   # use local file
   - ./config/source.yaml
-  # use web file
-  # - https://example.com/config/source.yaml
+   use web file
+   - https://raw.githubusercontent.com/cannavs/proxypool/master/config/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 
