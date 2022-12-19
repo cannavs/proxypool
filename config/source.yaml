@@ -17,7 +17,7 @@
 - type: tgchannel
   options:
     channel: airproxies
-    num: 500
+    num: 5
 
 # clash格式订阅链接
 #- type: clash
